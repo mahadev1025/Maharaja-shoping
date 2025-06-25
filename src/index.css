@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+
+
+body{
+    background-color: #bbb;
+}
+
+h1{
+    font-family: "Gotu", serif;
+}
+@media(max-width:447px){
+  .card{
+      width: 150px;
+  }
+
+  .btn{
+      width:50px;
+  }
+}
+
+@media(max-width:648px){
+    .card{
+        width: 200px;
+    }
+
+    .btn{
+        width:128px;
+    }
+}

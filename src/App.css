@@ -1,0 +1,48 @@
+
+/* styles.css */
+@media (max-width: 768px) {
+  .mediya {
+    /* Styles for tablets and smaller screens */
+    font-size: 14px;
+    background-color: lightblue;
+  }
+}
+
+@media (max-width: 480px) {
+  .mediya {
+    /* Styles for mobile phones */
+    font-size: 12px;
+    background-color: lightcoral;
+  }
+}
+
+@media (min-width: 769px) {
+  .mediya {
+    /* Styles for larger screens */
+    font-size: 16px;
+    background-color: lightgreen;
+  }
+}
+
+
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 36px;
+}
+.main-container {
+  margin-bottom: 20px; /* Add bottom margin to Main component */
+}
+
+.collem-container {
+  margin-top: 20px; /* Add top margin to CollemB component */
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Adjust the spacing between all components */
+}
+
+
+
+

@@ -19,7 +19,7 @@ function Allproducts() {
                     </li>
 
                     <li className="text-lg p-0 flex flex-col items-center cursor-pointer flex-1">
-                      <a href="\Users\mahadev ashok lanke\OneDrive\Desktop\react\mobile_comp" target="_blank" rel="noopener noreferrer">
+                      <a href="https://www.flipkart.com/search?q=mobiles&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" target="_blank" rel="noopener noreferrer">
                        <img 
                          src="https://rukminim2.flixcart.com/flap/128/128/image/22fddf3c7da4c4f4.png?q=100" 
                          alt="Grocery" 
